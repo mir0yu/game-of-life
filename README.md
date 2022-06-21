@@ -1,3 +1,6 @@
+## Задание Game of Life для [практики](https://dementiy.github.io/assignments/cypher/)
+
+
 Запустить тесты можно так:
 
 ```
